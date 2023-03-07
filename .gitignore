@@ -1,0 +1,10 @@
+# Build and Release Folders
+*.exe
+*.rej
+*.orig
+*.hevc
+*.yuv
+*.y4m
+*.vpy
+*.out
+*.swp
